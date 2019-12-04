@@ -1,4 +1,4 @@
-function _morse = f (input)
+function _morse = morseTranslate (input)
 #This function translates inputed text into Morse Code.
 #It only takes lowercase, as morse code does nott have upper case
 #It outputs NE (Non Existant) for capital letters
