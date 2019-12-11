@@ -1,2 +1,2 @@
 # morseTranslator
-Morse code translator in Octave
+Horrible Morse code translator in Octave
